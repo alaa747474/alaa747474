@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Alaa reda and I'm a Mobile app developer, from Mansoura , Egypt</h2>
+<h2 align="center">Hi 👋! My name is Alaa Reda and I'm a Mobile App Developer from Mansoura, Egypt</h2>
 
 ###
 
@@ -27,6 +27,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
 </div>
 
 ###
