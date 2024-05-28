@@ -1,4 +1,7 @@
-[![MasterHead]([https://img.freepik.com/free-vector/seo-search-engine-optimization-concept_107791-9635.jpg?w=1380&t=st=1684117910~exp=1684118510~hmac=34edb38cc2e9b630168204f0c270bc4fe97edc80505f32fab8ee861f3c6554d4](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpyb2szbnVneDV3M2EwNTY4dHdtcjY4NGpyejBuM2trM2gyMDI2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif)](https://giphy.com/)
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpyb2szbnVneDV3M2EwNTY4dHdtcjY4NGpyejBuM2trM2gyMDI2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" alt="animated gif" style="width: 100%;" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Alaa Reda:technologist:</h1>
 <h3 align="center">A Flutter developer from Egypt (Mansoura)</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif">
