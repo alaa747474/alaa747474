@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpyb2szbnVneDV3M2EwNTY4dHdtcjY4NGpyejBuM2trM2gyMDI2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" alt="animated gif" style="width: 100%;" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Alaa Reda:technologist:</h1>
+<h1 align="center">Hi 👋, I'm Alaa Reda</h1>
 <h3 align="center">A Flutter developer from Egypt (Mansoura)</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaa747474&label=Profile%20views&color=0e75b6&style=flat" alt="alaa747474" /> </p>
