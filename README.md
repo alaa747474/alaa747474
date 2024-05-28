@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Alaa Reda and I'm a Mobile App Developer from Mansoura, Egypt</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTI4OW10ZjdkdnlydmR2OWpxMGIzMTI2dHVwOXZ1cGZ6YWY3NTJoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="animated gif" style="width: 100%;" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpyb2szbnVneDV3M2EwNTY4dHdtcjY4NGpyejBuM2trM2gyMDI2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" alt="animated gif" style="width: 100%;" />
 </div>
 
 - 🌱 I’m currently learning **iOS Development**
