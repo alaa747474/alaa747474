@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpyb2szbnVneDV3M2EwNTY4dHdtcjY4NGpyejBuM2trM2gyMDI2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" alt="animated gif" style="width: 100%;" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpyb2szbnVneDV3M2EwNTY4dHdtcjY4NGpyejBuM2trM2gyMDI2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" alt="animated gif" style="width: 400%;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Alaa Reda:technologist:</h1>
