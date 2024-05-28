@@ -1,5 +1,11 @@
 <h2 align="center">Hi 👋! My name is Alaa Reda and I'm a Mobile App Developer from Mansoura, Egypt</h2>
 
+- 🌱 I’m currently learning **iOS Development**
+
+- 💬 Ask me about **Flutter, Dart**
+
+- 📫 How to reach me **Alaareda17878@gmail.com**
+
 ###
 
 <div align="center">
