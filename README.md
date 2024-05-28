@@ -4,11 +4,15 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpyb2szbnVneDV3M2EwNTY4dHdtcjY4NGpyejBuM2trM2gyMDI2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" alt="animated gif" style="width: 100%;" />
 </div>
 
-- 🌱 I’m currently learning **iOS Development**
+<div align="left">
+  <img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpyb2szbnVneDV3M2EwNTY4dHdtcjY4NGpyejBuM2trM2gyMDI2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" alt="animated gif" />
 
-- 💬 Ask me about **Flutter, Dart**
+  - 🌱 I’m currently learning **iOS Development**
 
-- 📫 How to reach me **Alaareda17878@gmail.com**
+  - 💬 Ask me about **Flutter, Dart**
+
+  - 📫 How to reach me **Alaareda17878@gmail.com**
+</div>
 
 ###
 
