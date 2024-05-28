@@ -60,6 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alaa747474/alaa747474/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/alaa747474/alaa747474/blob/output/snake.svg" alt="Snake animation" />
 
 ###
