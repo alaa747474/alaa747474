@@ -8,7 +8,7 @@
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
 - :fire: Passionate Mobile Developer with over one year of experience in Flutter
 - :mortar_board: Computer Science Graduate from Mansoura University
-- :earth_africa: Based in Egypt, Mansoura
+- :earth_africa: Based in Egypt, Cairo
 - :computer: Always learning and experimenting with new technologies
 - :e-mail: [Email me](mailto:alaareda17878@gmail.com) or [Connect on LinkedIn](https://linkedin.com/in/alaareda)
 - :page_facing_up: Check out my [resume](https://drive.google.com/file/d/192KA_YKV6JE9Z-FKmMZKoKO7qxviKeMG/view?usp=drive_link)
